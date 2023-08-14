@@ -1,2 +1,2 @@
 # My-portfolio
-https://my-portfolio.ankitmurarka96.repl.co/
+https://ankitmurarka96.github.io/My-portfolio/
